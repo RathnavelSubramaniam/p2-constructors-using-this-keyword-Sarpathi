@@ -1,4 +1,5 @@
-class Product {
+class Product 
+{
     int productId;
     String productName;
     double price;
